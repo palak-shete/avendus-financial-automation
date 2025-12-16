@@ -34,7 +34,7 @@ PDF → Python Extraction → Data Normalization → Summary Sheet → Power BI 
 ## Files
 - extractor.py – Extracts tables from PDF to Excel
 - create_summary.py – Creates clean summary layer automatically
-- output_with_summary.xlsx – Final Power BI-ready dataset
+- output.xlsx – Final Power BI-ready dataset
 - Avendus_Automated_Financial_Report.pbix – Power BI dashboard
 
 ## Outcome
